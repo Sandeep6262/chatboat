@@ -1,0 +1,132 @@
+{
+    "business": [
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Economic Times", 
+            "News_URL": "http://economictimes.indiatimes.com", 
+            "Title": "Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Can retail investors light up NBFCs' Diwali?", 
+            "News_URL": "https://economictimes.indiatimes.com/markets/stocks/news/can-retail-investors-light-up-diwali-for-nbfcs/articleshow/70488044.cms", 
+            "Title": "Can retail investors light up Diwali for NBFCs? - The Economic Times"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Bank credit up 12%, deposits 10.6%", 
+            "News_URL": "https://economictimes.indiatimes.com/news/economy/finance/bank-credit-up-12-deposits-10-6/articleshow/70487737.cms", 
+            "Title": "Bank credit up 12%, deposits 10.6% - The Economic Times"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "BJP expels rape, murder accused MLA Sengar from party", 
+            "News_URL": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-expels-rape-murder-accused-mla-sengar-from-party/articleshow/70487392.cms", 
+            "Title": "BJP expels rape, murder accused MLA Sengar from party - The Economic Times"
+        }
+    ], 
+    "entertainment": [
+        {
+            "Date": "2019/08/02", 
+            "Discription": "TOI Entertainment", 
+            "News_URL": "http://timesofindia.indiatimes.com/entertainment", 
+            "Title": "Latest Entertainment News, Movies News, Celebrity News, Breaking News | Entertainment - Times of India"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "newAnushka tweets about Jamshedpur rape case", 
+            "News_URL": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-calls-for-severe-punishment-in-jamshedpur-rape-case/articleshow/70490134.cms", 
+            "Title": "Anushka Sharma calls for 'severe punishment' in Jamshedpur rape case | Hindi Movie News - Times of India"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "'Super 30' is now tax-free in Jammu & Kashmir", 
+            "News_URL": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/super-30-is-now-tax-free-in-jammu-and-kashmir/articleshow/70488494.cms", 
+            "Title": "'Super 30' is now tax-free in Jammu and Kashmir | Hindi Movie News - Times of India"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Five reasons to watch 'Rakshasudu'", 
+            "News_URL": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rakshasudu-review-five-reasons-to-watch-bellamkonda-sreenivas-and-anupama-parameswaran-starrer/articleshow/70484929.cms", 
+            "Title": "Rakshasudu Review: Five reasons to watch Bellamkonda Sreenivas and Anupama Parameswaran starrer"
+        }
+    ], 
+    "sports": [
+        {
+            "Date": "2019/08/02", 
+            "Discription": "TOI Sports", 
+            "News_URL": "http://timesofindia.indiatimes.com/sports", 
+            "Title": "Sports News: Latest Cricket News, Live Match Scores & Sports News Headlines, Results & more"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Big sports events today", 
+            "News_URL": "https://timesofindia.indiatimes.com/sports/more-sports/others/big-sports-events-today/articleshow/70487399.cms", 
+            "Title": "Big sports events today | More sports News - Times of India"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "1st Ashes Test, Day 1: Steve Smith ton takes Australia to 284 all out", 
+            "News_URL": "https://timesofindia.indiatimes.com/sports/cricket/ashes-2019/1st-ashes-test-day-1-steve-smith-ton-takes-australia-to-284-all-out/articleshow/70488314.cms", 
+            "Title": "1st Ashes Test, Day 1: Steve Smith ton takes Australia to 284 all out | Cricket News - Times of India"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "England vs Australia: Steve Smith scores Ashes century on Test return", 
+            "News_URL": "https://timesofindia.indiatimes.com/sports/cricket/ashes-2019/england-vs-australia-steve-smith-scores-ashes-century-on-test-return/articleshow/70487735.cms", 
+            "Title": "England vs Australia: Steve Smith scores Ashes century on Test return | Cricket News - Times of India"
+        }
+    ], 
+    "technology": [
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Network World", 
+            "News_URL": "http://www.networkworld.com/", 
+            "Title": "Welcome to Network World.com"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Network Computing", 
+            "News_URL": "http://www.networkcomputing.com", 
+            "Title": "IT Infrastructure Advice, Discussion, Community - Network Computing |"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "How to Build Secure Networks that are Both Agile and Customizable", 
+            "News_URL": "https://www.networkcomputing.com/network-security/how-build-secure-networks-are-both-agile-and-customizable", 
+            "Title": "How to Build Secure Networks that are Both Agile and Customizable | IT Infrastructure Advice, Discussion, Community - Network Computing"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "Dynamic Spectrum Sharing Promises Bridge to 5G", 
+            "News_URL": "https://www.networkcomputing.com/wireless-infrastructure/dynamic-spectrum-sharing-promises-bridge-5g", 
+            "Title": "Dynamic Spectrum Sharing Promises Bridge to 5G | IT Infrastructure Advice, Discussion, Community - Network Computing"
+        }
+    ], 
+    "world": [
+        {
+            "Date": "2019/08/02", 
+            "Discription": "CNN", 
+            "News_URL": "http://www.cnn.com", 
+            "Title": "CNN International - Breaking News, US News, World News and Video"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "newTulsi Gabbard: Bashar Assad is 'a brutal dictator'", 
+            "News_URL": "https://www.cnn.com/2019/08/01/politics/tulsi-gabbard-assad-dictator-cnntv/index.html", 
+            "Title": "Tulsi Gabbard: Bashar Assad is 'a brutal dictator' - CNNPolitics"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "newAsia tech stocks fall after Trump renews US-China trade war", 
+            "News_URL": "https://www.cnn.com/2019/08/01/investing/asian-market-latest-trade-war/index.html", 
+            "Title": "Asian market latest: Tech stocks fall after Trump renews US-China trade war - CNN"
+        }, 
+        {
+            "Date": "2019/08/02", 
+            "Discription": "newTrump takes aim at cities run by Democrats", 
+            "News_URL": "https://www.cnn.com/2019/08/01/politics/donald-trump-cincinnati-rally/index.html", 
+            "Title": "Trump rallying in Cincinnati takes aim at cities run by Democrats - CNNPolitics"
+        }
+    ]
+}
